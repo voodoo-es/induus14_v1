@@ -2,3 +2,8 @@
 	path = voodoo-es/induusv14
 	url = git@github.com:voodoo-es/induusv14.git
 	branch = main
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
