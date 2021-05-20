@@ -1,0 +1,4 @@
+[submodule "voodoo-es/induusv14"]
+	path = voodoo-es/induusv14
+	url = git@github.com:voodoo-es/induusv14.git
+	branch = main
